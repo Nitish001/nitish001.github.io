@@ -1,0 +1,12 @@
+.navbar{
+	font-size: 20px;
+    font-family: 'Ubuntu' ,sans-serif;
+	background-color: black;
+	margin-bottom: -5px;
+	padding: 8px;
+/*padding-bottom: -10px;*/
+}
+/*.login-buttons{
+	padding-right: 5px;
+	margin: 5px;
+}*/
