@@ -16,4 +16,9 @@ text-color : black;
 color: black;
 }
 a{
-color:black;}
+color:white;}
+a:hover{
+font-size:22px;
+
+}
+
